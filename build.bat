@@ -1,0 +1,1 @@
+pyinstaller -F --collect-data=ntchat --collect-data=watchdog --workpath=temp --distpath=. wx_robot.py
